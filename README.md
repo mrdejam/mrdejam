@@ -1,8 +1,6 @@
-# mohamadrezaDejam
-i am a small Programmer :)
 <h1 align="center">
   <br>
-  <a href="https://instagram.com/mrdejam"><img src="./mrdejam.svg" alt="mrdejam" width="200"></a>
+  <a href="https://instagram.com/mrdejam"><img src="./mrdejam.svg" alt="mrdejam" width="400"></a>
   <br>
   MohamadRezaDejam (mrdejam)
 </h1>
