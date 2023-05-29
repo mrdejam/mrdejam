@@ -33,3 +33,7 @@
 <a href="https://t.me/mrdejam">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
+<a href="https://linkedin.com/in/mrdejam">
+    <img alt="Telegram" src="https://img.shields.io/badge/Linkedin-2CA5E0?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
