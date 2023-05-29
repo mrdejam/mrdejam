@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 224.63 63.98">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0b1118;
+      }
+
+      .cls-2 {
+        fill: #f9ae42;
+      }
+
+      .cls-2, .cls-3 {
+        font-family: AristotelicaDisplayTrial-DmBd, 'Aristotelica Display Trial';
+        font-size: 55.4px;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="OBJECTS">
+    <g>
+      <rect class="cls-1" y="1.78" width="224.63" height="59.18" rx="13.13" ry="13.13"/>
+      <g>
+        <text class="cls-2" transform="translate(72.06 45.44)"><tspan x="0" y="0">dejam</tspan></text>
+        <text class="cls-3" transform="translate(11.99 45.44)"><tspan x="0" y="0">mr</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
