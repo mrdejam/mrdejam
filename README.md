@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://instagram.com/mrdejam"><img src="./mrdejam-logo.svg" alt="mrdejam" width="500"></a>
+  <a href="https://instagram.com/mrdejam"><img src="./mrdejam.svg" alt="mrdejam" width="500"></a>
   <br>
   MohamadRezaDejam (mrdejam)
 </h1>
