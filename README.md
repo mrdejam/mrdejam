@@ -19,6 +19,8 @@
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+<img alt="ًRestful" src="https://img.shields.io/badge/-Restful%20API-008000?style=for-the-badge&logo=restful-api&logoColor=white" />
+
 
 </p>
 
